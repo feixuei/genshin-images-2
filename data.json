@@ -1,0 +1,250 @@
+{
+    "game": "Genshin",
+    "totle_images_nums": 173,
+    "totle_tags_nums": 7,
+    "safe_nums": 139,
+    "sese_nums": 34,
+    "tags": {
+        "荧": {
+            "id": "4073",
+            "nums": 4,
+            "images": {
+                "safe": [
+                    "safe-gs-荧_夏洛蒂-1.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp",
+                    "safe-gs-荧_芙宁娜-1.webp",
+                    "safe-gs-荧_芙宁娜-2.webp"
+                ]
+            }
+        },
+        "空": {
+            "id": "4074",
+            "nums": 1,
+            "images": {
+                "safe": [
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ]
+            }
+        },
+        "绮良良": {
+            "id": "6594",
+            "nums": 1,
+            "images": {
+                "safe": [
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ]
+            }
+        },
+        "芙宁娜": {
+            "id": "500291",
+            "nums": 144,
+            "images": {
+                "safe": [
+                    "safe-gs-芙宁娜-1.webp",
+                    "safe-gs-芙宁娜-10.webp",
+                    "safe-gs-芙宁娜-100.webp",
+                    "safe-gs-芙宁娜-101.webp",
+                    "safe-gs-芙宁娜-102.webp",
+                    "safe-gs-芙宁娜-103.webp",
+                    "safe-gs-芙宁娜-104.webp",
+                    "safe-gs-芙宁娜-105.webp",
+                    "safe-gs-芙宁娜-106.webp",
+                    "safe-gs-芙宁娜-107.webp",
+                    "safe-gs-芙宁娜-108.webp",
+                    "safe-gs-芙宁娜-11.webp",
+                    "safe-gs-芙宁娜-110.webp",
+                    "safe-gs-芙宁娜-111.webp",
+                    "safe-gs-芙宁娜-112.webp",
+                    "safe-gs-芙宁娜-113.webp",
+                    "safe-gs-芙宁娜-114.webp",
+                    "safe-gs-芙宁娜-115.webp",
+                    "safe-gs-芙宁娜-12.webp",
+                    "safe-gs-芙宁娜-13.webp",
+                    "safe-gs-芙宁娜-14.webp",
+                    "safe-gs-芙宁娜-15.webp",
+                    "safe-gs-芙宁娜-16.webp",
+                    "safe-gs-芙宁娜-17.webp",
+                    "safe-gs-芙宁娜-18.webp",
+                    "safe-gs-芙宁娜-19.webp",
+                    "safe-gs-芙宁娜-2.webp",
+                    "safe-gs-芙宁娜-20.webp",
+                    "safe-gs-芙宁娜-21.webp",
+                    "safe-gs-芙宁娜-22.webp",
+                    "safe-gs-芙宁娜-24.webp",
+                    "safe-gs-芙宁娜-25.webp",
+                    "safe-gs-芙宁娜-26.webp",
+                    "safe-gs-芙宁娜-27.webp",
+                    "safe-gs-芙宁娜-28.webp",
+                    "safe-gs-芙宁娜-29.webp",
+                    "safe-gs-芙宁娜-3.webp",
+                    "safe-gs-芙宁娜-30.webp",
+                    "safe-gs-芙宁娜-31.webp",
+                    "safe-gs-芙宁娜-32.webp",
+                    "safe-gs-芙宁娜-33.webp",
+                    "safe-gs-芙宁娜-34.webp",
+                    "safe-gs-芙宁娜-36.webp",
+                    "safe-gs-芙宁娜-37.webp",
+                    "safe-gs-芙宁娜-38.webp",
+                    "safe-gs-芙宁娜-39.webp",
+                    "safe-gs-芙宁娜-4.webp",
+                    "safe-gs-芙宁娜-40.webp",
+                    "safe-gs-芙宁娜-41.webp",
+                    "safe-gs-芙宁娜-42.webp",
+                    "safe-gs-芙宁娜-43.webp",
+                    "safe-gs-芙宁娜-44.webp",
+                    "safe-gs-芙宁娜-45.webp",
+                    "safe-gs-芙宁娜-46.webp",
+                    "safe-gs-芙宁娜-47.webp",
+                    "safe-gs-芙宁娜-48.webp",
+                    "safe-gs-芙宁娜-49.webp",
+                    "safe-gs-芙宁娜-5.webp",
+                    "safe-gs-芙宁娜-50.webp",
+                    "safe-gs-芙宁娜-51.webp",
+                    "safe-gs-芙宁娜-52.webp",
+                    "safe-gs-芙宁娜-53.webp",
+                    "safe-gs-芙宁娜-54.webp",
+                    "safe-gs-芙宁娜-55.webp",
+                    "safe-gs-芙宁娜-56.webp",
+                    "safe-gs-芙宁娜-57.webp",
+                    "safe-gs-芙宁娜-58.webp",
+                    "safe-gs-芙宁娜-59.webp",
+                    "safe-gs-芙宁娜-6.webp",
+                    "safe-gs-芙宁娜-60.webp",
+                    "safe-gs-芙宁娜-61.webp",
+                    "safe-gs-芙宁娜-62.webp",
+                    "safe-gs-芙宁娜-63.webp",
+                    "safe-gs-芙宁娜-64.webp",
+                    "safe-gs-芙宁娜-65.webp",
+                    "safe-gs-芙宁娜-66.webp",
+                    "safe-gs-芙宁娜-67.webp",
+                    "safe-gs-芙宁娜-68.webp",
+                    "safe-gs-芙宁娜-69.webp",
+                    "safe-gs-芙宁娜-7.webp",
+                    "safe-gs-芙宁娜-70.webp",
+                    "safe-gs-芙宁娜-71.webp",
+                    "safe-gs-芙宁娜-72.webp",
+                    "safe-gs-芙宁娜-73.webp",
+                    "safe-gs-芙宁娜-74.webp",
+                    "safe-gs-芙宁娜-75.webp",
+                    "safe-gs-芙宁娜-76.webp",
+                    "safe-gs-芙宁娜-77.webp",
+                    "safe-gs-芙宁娜-78.webp",
+                    "safe-gs-芙宁娜-79.webp",
+                    "safe-gs-芙宁娜-8.webp",
+                    "safe-gs-芙宁娜-80.webp",
+                    "safe-gs-芙宁娜-81.webp",
+                    "safe-gs-芙宁娜-82.webp",
+                    "safe-gs-芙宁娜-83.webp",
+                    "safe-gs-芙宁娜-84.webp",
+                    "safe-gs-芙宁娜-85.webp",
+                    "safe-gs-芙宁娜-86.webp",
+                    "safe-gs-芙宁娜-87.webp",
+                    "safe-gs-芙宁娜-88.webp",
+                    "safe-gs-芙宁娜-89.webp",
+                    "safe-gs-芙宁娜-9.webp",
+                    "safe-gs-芙宁娜-90.webp",
+                    "safe-gs-芙宁娜-91.webp",
+                    "safe-gs-芙宁娜-92.webp",
+                    "safe-gs-芙宁娜-93.webp",
+                    "safe-gs-芙宁娜-94.webp",
+                    "safe-gs-芙宁娜-95.webp",
+                    "safe-gs-芙宁娜-96.webp",
+                    "safe-gs-芙宁娜-97.webp",
+                    "safe-gs-芙宁娜-98.webp",
+                    "safe-gs-芙宁娜-99.webp",
+                    "safe-gs-芙宁娜_阿蕾奇诺-1.webp",
+                    "safe-gs-荧_芙宁娜-1.webp",
+                    "safe-gs-荧_芙宁娜-2.webp"
+                ],
+                "sese": [
+                    "sese-gs-芙宁娜-1.webp",
+                    "sese-gs-芙宁娜-10.webp",
+                    "sese-gs-芙宁娜-11.webp",
+                    "sese-gs-芙宁娜-12.webp",
+                    "sese-gs-芙宁娜-13.webp",
+                    "sese-gs-芙宁娜-14.webp",
+                    "sese-gs-芙宁娜-15.webp",
+                    "sese-gs-芙宁娜-16.webp",
+                    "sese-gs-芙宁娜-17.webp",
+                    "sese-gs-芙宁娜-18.webp",
+                    "sese-gs-芙宁娜-19.webp",
+                    "sese-gs-芙宁娜-2.webp",
+                    "sese-gs-芙宁娜-20.webp",
+                    "sese-gs-芙宁娜-23.webp",
+                    "sese-gs-芙宁娜-24.webp",
+                    "sese-gs-芙宁娜-25.webp",
+                    "sese-gs-芙宁娜-26.webp",
+                    "sese-gs-芙宁娜-27.webp",
+                    "sese-gs-芙宁娜-28.webp",
+                    "sese-gs-芙宁娜-29.webp",
+                    "sese-gs-芙宁娜-3.webp",
+                    "sese-gs-芙宁娜-30.webp",
+                    "sese-gs-芙宁娜-31.webp",
+                    "sese-gs-芙宁娜-4.webp",
+                    "sese-gs-芙宁娜-5.webp",
+                    "sese-gs-芙宁娜-6.webp",
+                    "sese-gs-芙宁娜-7.webp",
+                    "sese-gs-芙宁娜-8.webp",
+                    "sese-gs-芙宁娜-9.webp"
+                ]
+            }
+        },
+        "夏洛蒂": {
+            "id": "500292",
+            "nums": 29,
+            "images": {
+                "safe": [
+                    "safe-gs-夏洛蒂-1.webp",
+                    "safe-gs-夏洛蒂-10.webp",
+                    "safe-gs-夏洛蒂-11.webp",
+                    "safe-gs-夏洛蒂-15.webp",
+                    "safe-gs-夏洛蒂-16.webp",
+                    "safe-gs-夏洛蒂-17.webp",
+                    "safe-gs-夏洛蒂-2.webp",
+                    "safe-gs-夏洛蒂-20.webp",
+                    "safe-gs-夏洛蒂-23.webp",
+                    "safe-gs-夏洛蒂-24.webp",
+                    "safe-gs-夏洛蒂-25.webp",
+                    "safe-gs-夏洛蒂-26.webp",
+                    "safe-gs-夏洛蒂-27.webp",
+                    "safe-gs-夏洛蒂-28.webp",
+                    "safe-gs-夏洛蒂-29.webp",
+                    "safe-gs-夏洛蒂-3.webp",
+                    "safe-gs-夏洛蒂-4.webp",
+                    "safe-gs-夏洛蒂-5.webp",
+                    "safe-gs-夏洛蒂-6.webp",
+                    "safe-gs-夏洛蒂-7.webp",
+                    "safe-gs-夏洛蒂-8.webp",
+                    "safe-gs-夏洛蒂-9.webp",
+                    "safe-gs-荧_夏洛蒂-1.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ],
+                "sese": [
+                    "sese-gs-夏洛蒂-1.webp",
+                    "sese-gs-夏洛蒂-2.webp",
+                    "sese-gs-夏洛蒂-3.webp",
+                    "sese-gs-夏洛蒂-4.webp",
+                    "sese-gs-夏洛蒂-5.webp"
+                ]
+            }
+        },
+        "派蒙": {
+            "id": "c0_1",
+            "nums": 1,
+            "images": {
+                "safe": [
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ]
+            }
+        },
+        "阿蕾奇诺": {
+            "id": "c7_2",
+            "nums": 1,
+            "images": {
+                "safe": [
+                    "safe-gs-芙宁娜_阿蕾奇诺-1.webp"
+                ]
+            }
+        }
+    }
+}
