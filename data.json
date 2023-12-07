@@ -1,19 +1,33 @@
 {
     "game": "gs",
-    "totle_images_nums": 173,
-    "totle_tags_nums": 7,
-    "safe_nums": 139,
-    "sese_nums": 34,
+    "totle_images_nums": 232,
+    "totle_tags_nums": 11,
+    "safe_nums": 179,
+    "sese_nums": 53,
     "tags": {
+        "甘雨": {
+            "id": "1433",
+            "nums": 1,
+            "images": {
+                "safe": [
+                    "safe-gs-甘雨_琳妮特_芙宁娜-1.webp"
+                ]
+            }
+        },
         "荧": {
             "id": "4073",
-            "nums": 4,
+            "nums": 7,
             "images": {
                 "safe": [
                     "safe-gs-荧_夏洛蒂-1.webp",
+                    "safe-gs-荧_琳妮特-1.webp",
+                    "safe-gs-荧_琳妮特-2.webp",
                     "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp",
                     "safe-gs-荧_芙宁娜-1.webp",
                     "safe-gs-荧_芙宁娜-2.webp"
+                ],
+                "sese": [
+                    "sese-gs-荧_琳妮特-1.webp"
                 ]
             }
         },
@@ -28,18 +42,118 @@
         },
         "绮良良": {
             "id": "6594",
+            "nums": 2,
+            "images": {
+                "safe": [
+                    "safe-gs-绮良良_琳妮特-1.webp",
+                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                ]
+            }
+        },
+        "林尼": {
+            "id": "6937",
+            "nums": 10,
+            "images": {
+                "safe": [
+                    "safe-gs-林尼_琳妮特-1.webp",
+                    "safe-gs-林尼_琳妮特-2.webp",
+                    "safe-gs-林尼_琳妮特-3.webp",
+                    "safe-gs-林尼_琳妮特-4.webp",
+                    "safe-gs-林尼_琳妮特-5.webp",
+                    "safe-gs-林尼_琳妮特-6.webp",
+                    "safe-gs-林尼_琳妮特-7.webp",
+                    "safe-gs-林尼_琳妮特-8.webp",
+                    "safe-gs-林尼_琳妮特_菲米尼-1.webp"
+                ],
+                "sese": [
+                    "sese-gs-林尼_琳妮特-1.webp"
+                ]
+            }
+        },
+        "琳妮特": {
+            "id": "6938",
+            "nums": 59,
+            "images": {
+                "safe": [
+                    "safe-gs-林尼_琳妮特-1.webp",
+                    "safe-gs-林尼_琳妮特-2.webp",
+                    "safe-gs-林尼_琳妮特-3.webp",
+                    "safe-gs-林尼_琳妮特-4.webp",
+                    "safe-gs-林尼_琳妮特-5.webp",
+                    "safe-gs-林尼_琳妮特-6.webp",
+                    "safe-gs-林尼_琳妮特-7.webp",
+                    "safe-gs-林尼_琳妮特-8.webp",
+                    "safe-gs-林尼_琳妮特_菲米尼-1.webp",
+                    "safe-gs-琳妮特-1.webp",
+                    "safe-gs-琳妮特-10.webp",
+                    "safe-gs-琳妮特-11.webp",
+                    "safe-gs-琳妮特-12.webp",
+                    "safe-gs-琳妮特-13.webp",
+                    "safe-gs-琳妮特-14.webp",
+                    "safe-gs-琳妮特-15.webp",
+                    "safe-gs-琳妮特-16.webp",
+                    "safe-gs-琳妮特-17.webp",
+                    "safe-gs-琳妮特-18.webp",
+                    "safe-gs-琳妮特-19.webp",
+                    "safe-gs-琳妮特-20.webp",
+                    "safe-gs-琳妮特-21.webp",
+                    "safe-gs-琳妮特-22.webp",
+                    "safe-gs-琳妮特-23.webp",
+                    "safe-gs-琳妮特-24.webp",
+                    "safe-gs-琳妮特-25.webp",
+                    "safe-gs-琳妮特-26.webp",
+                    "safe-gs-琳妮特-27.webp",
+                    "safe-gs-琳妮特-28.webp",
+                    "safe-gs-琳妮特-3.webp",
+                    "safe-gs-琳妮特-4.webp",
+                    "safe-gs-琳妮特-5.webp",
+                    "safe-gs-琳妮特-6.webp",
+                    "safe-gs-琳妮特-7.webp",
+                    "safe-gs-琳妮特-8.webp",
+                    "safe-gs-琳妮特-9.webp",
+                    "safe-gs-甘雨_琳妮特_芙宁娜-1.webp",
+                    "safe-gs-绮良良_琳妮特-1.webp",
+                    "safe-gs-荧_琳妮特-1.webp",
+                    "safe-gs-荧_琳妮特-2.webp"
+                ],
+                "sese": [
+                    "sese-gs-林尼_琳妮特-1.webp",
+                    "sese-gs-琳妮特-1.webp",
+                    "sese-gs-琳妮特-10.webp",
+                    "sese-gs-琳妮特-11.webp",
+                    "sese-gs-琳妮特-12.webp",
+                    "sese-gs-琳妮特-13.webp",
+                    "sese-gs-琳妮特-14.webp",
+                    "sese-gs-琳妮特-15.webp",
+                    "sese-gs-琳妮特-16.webp",
+                    "sese-gs-琳妮特-17.webp",
+                    "sese-gs-琳妮特-2.webp",
+                    "sese-gs-琳妮特-3.webp",
+                    "sese-gs-琳妮特-4.webp",
+                    "sese-gs-琳妮特-5.webp",
+                    "sese-gs-琳妮特-6.webp",
+                    "sese-gs-琳妮特-7.webp",
+                    "sese-gs-琳妮特-8.webp",
+                    "sese-gs-琳妮特-9.webp",
+                    "sese-gs-荧_琳妮特-1.webp"
+                ]
+            }
+        },
+        "菲米尼": {
+            "id": "7257",
             "nums": 1,
             "images": {
                 "safe": [
-                    "safe-gs-荧_空_绮良良_夏洛蒂_派蒙-1.webp"
+                    "safe-gs-林尼_琳妮特_菲米尼-1.webp"
                 ]
             }
         },
         "芙宁娜": {
             "id": "500291",
-            "nums": 144,
+            "nums": 145,
             "images": {
                 "safe": [
+                    "safe-gs-甘雨_琳妮特_芙宁娜-1.webp",
                     "safe-gs-芙宁娜-1.webp",
                     "safe-gs-芙宁娜-10.webp",
                     "safe-gs-芙宁娜-100.webp",
